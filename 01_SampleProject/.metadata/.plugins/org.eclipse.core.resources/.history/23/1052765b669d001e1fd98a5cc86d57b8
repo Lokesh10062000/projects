@@ -1,0 +1,5 @@
+package com.lokesh.entity;
+
+public class Student {
+
+}

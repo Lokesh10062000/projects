@@ -1,0 +1,6 @@
+package com.springboot.blog.utils;
+
+public class AppConstraints {
+	public static final String PAGE_NO="0";
+
+}
